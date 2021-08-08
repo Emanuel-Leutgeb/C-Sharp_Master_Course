@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8D792857-0BC4-4346-9052-F4D0270B50BD}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C-Sharp_Masterkurs" expanded="True">
+            <Node name="C-Sharp_Masterkurs" expanded="True">
+              <Node name="00 Module" expanded="True" />
+              <Node name="11 Modul 11_Interfaces" expanded="True" />
+              <Node name="12 Modul 12_Abstrakte Klassen und Methoden" expanded="True" />
+              <Node name="00 Programm Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.C-Sharp__Masterkurs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
