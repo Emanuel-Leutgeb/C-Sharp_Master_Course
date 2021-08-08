@@ -3,25 +3,27 @@ programmieren-starten
 
 
 ## Aktualisieren der Projektes Git
+### * bedeutet alles was neu bzw. verändert wurde 
 ```
-git add *                           //* bedeutet alles was neu bzw. verändert wurde
+git add *                         
 ```
-
+### "message" eigener kurzer text was verändert wurde (changes)
 ```
-git commit -m "message"             //"message" eigener kurzer text was verändert wurde (changes)
+git commit -m "message"           
 ```
-
+### Hochladen
 ```
-git push                            //Hochladen
+git push                           
 ```
 
 
 
 ## Terminal MacOS
+### ls = list
 ```
-ls                                  //ls = list
+ls                                 
 ```
-
+### cd = change directory
 ```
-cd  ordnerName                                //cd = change directory
+cd  ordnerName                     
 ```
