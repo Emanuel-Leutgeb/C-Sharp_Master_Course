@@ -27,3 +27,6 @@ ls
 ```
 cd  ordnerName                     
 ```
+### cd .. geht einen ordner weiter raus
+```
+cd ..
