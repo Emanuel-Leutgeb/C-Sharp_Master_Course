@@ -18,7 +18,7 @@ git push
 ### Projekt hochladen auf GitHub (link von Code / HTTPS GitHub kopieren)
 ```
 git clone link
-
+```
 
 
 ## Terminal MacOS
