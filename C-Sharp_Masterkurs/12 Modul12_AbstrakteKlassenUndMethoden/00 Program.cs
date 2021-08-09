@@ -15,6 +15,8 @@ namespace C_Sharp_Masterkurs.Modul12_AbstrakteKlassenUndMethoden
         }
         public void Modul12()
         {
+            /*
+            // Abstrakte Klassen
             Mechatroniker dominik = new Mechatroniker("Dominik", 2500);
             dominik.PrintInformation();
             dominik.ArbeitVerrichten();
@@ -42,6 +44,9 @@ namespace C_Sharp_Masterkurs.Modul12_AbstrakteKlassenUndMethoden
 
                 Console.WriteLine();
             }
+            */
+
+            ///*
         }
     }
 }
