@@ -1,0 +1,14 @@
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/bin/Release/net5.0/C-Sharp_Masterkurs.deps.json
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/bin/Release/net5.0/C-Sharp_Masterkurs.runtimeconfig.json
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/bin/Release/net5.0/C-Sharp_Masterkurs.runtimeconfig.dev.json
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/bin/Release/net5.0/C-Sharp_Masterkurs.dll
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/bin/Release/net5.0/ref/C-Sharp_Masterkurs.dll
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/bin/Release/net5.0/C-Sharp_Masterkurs.pdb
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/obj/Release/net5.0/C-Sharp_Masterkurs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/obj/Release/net5.0/C-Sharp_Masterkurs.AssemblyInfoInputs.cache
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/obj/Release/net5.0/C-Sharp_Masterkurs.AssemblyInfo.cs
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/obj/Release/net5.0/C-Sharp_Masterkurs.csproj.CoreCompileInputs.cache
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/obj/Release/net5.0/C-Sharp_Masterkurs.dll
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/obj/Release/net5.0/ref/C-Sharp_Masterkurs.dll
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/obj/Release/net5.0/C-Sharp_Masterkurs.pdb
+/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/obj/Release/net5.0/C-Sharp_Masterkurs.genruntimeconfig.cache

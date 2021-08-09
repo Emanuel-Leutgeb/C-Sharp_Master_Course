@@ -42,7 +42,7 @@ namespace C_Sharp_Masterkurs.Modul11_Interfaces
             */
 
             /*
-            //AUfgabe1
+            //Aufgabe1
             Hund hund = new Hund();
             hund.Gender = "Male";
             hund.Age = 10;
