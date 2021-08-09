@@ -15,11 +15,14 @@ git commit -m "message"
 ```
 git push                           
 ```
+### Gezwungenes Hochladen
+```
+git push --force
+```
 ### Projekt hochladen auf GitHub (link von Code / HTTPS GitHub kopieren)
 ```
 git clone link
 ```
-
 
 ## Terminal MacOS
 ### ls = list
