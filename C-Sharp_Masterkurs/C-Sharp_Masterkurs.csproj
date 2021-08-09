@@ -10,12 +10,10 @@
     <None Remove="Objekt\" />
     <None Remove="Main\" />
     <None Remove="11 Modul 11_Interfaces\" />
-    <None Remove="12 Modul 12_Abstrakte Klassen und Methoden\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="10 Modul 10_OOP\" />
     <Folder Include="00 Module\" />
     <Folder Include="11 Modul 11_Interfaces\" />
-    <Folder Include="12 Modul 12_Abstrakte Klassen und Methoden\" />
   </ItemGroup>
 </Project>
