@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs/C-Sharp_Masterkurs/C-Sharp_Masterkurs.csproj",
+      "projectUniqueName": "/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/C-Sharp_Masterkurs.csproj",
       "projectName": "C-Sharp_Masterkurs",
-      "projectPath": "/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs/C-Sharp_Masterkurs/C-Sharp_Masterkurs.csproj",
+      "projectPath": "/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/C-Sharp_Masterkurs.csproj",
       "packagesPath": "/Users/emanuelleutgeb/.nuget/packages/",
-      "outputPath": "/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs/C-Sharp_Masterkurs/obj/",
+      "outputPath": "/Users/emanuelleutgeb/Projects/C-Sharp_Masterkurs_GitHub/C-Sharp_Masterkurs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/emanuelleutgeb/.config/NuGet/NuGet.Config"

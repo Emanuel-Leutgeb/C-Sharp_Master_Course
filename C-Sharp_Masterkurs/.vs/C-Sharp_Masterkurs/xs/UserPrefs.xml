@@ -1,5 +1,10 @@
 ﻿<Properties StartupConfiguration="{8D792857-0BC4-4346-9052-F4D0270B50BD}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="12 Modul 12_Abstrakte Klassen und Methoden/00 Program Abstrakte Klassen und Methoden.cs">
+    <Files>
+      <File FileName="12 Modul 12_Abstrakte Klassen und Methoden/01 Abstrakte Klassen.cs" Line="9" Column="5" />
+      <File FileName="12 Modul 12_Abstrakte Klassen und Methoden/02 Mechatroniker.cs" Line="12" Column="13" />
+      <File FileName="12 Modul 12_Abstrakte Klassen und Methoden/00 Program Abstrakte Klassen und Methoden.cs" Line="19" Column="21" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -7,8 +12,9 @@
             <Node name="C-Sharp_Masterkurs" expanded="True">
               <Node name="00 Module" expanded="True" />
               <Node name="11 Modul 11_Interfaces" expanded="True" />
-              <Node name="12 Modul 12_Abstrakte Klassen und Methoden" expanded="True" />
-              <Node name="00 Programm Main.cs" selected="True" />
+              <Node name="12 Modul 12_Abstrakte Klassen und Methoden" expanded="True">
+                <Node name="00 Program Abstrakte Klassen und Methoden.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
