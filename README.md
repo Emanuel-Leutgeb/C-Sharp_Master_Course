@@ -3,6 +3,14 @@ programmieren-starten
 
 
 ## Aktualisieren der Projektes Git
+### mit (ls) und (cd) nach Projekt suchen
+```
+ls 
+```
+cd Projects
+```
+cd ..
+```
 ### * bedeutet alles was neu bzw. verändert wurde 
 ```
 git add *                         
@@ -15,7 +23,7 @@ git commit -m "message"
 ```
 git push                           
 ```
-### Projekt hochladen auf GitHub (link von Code / HTTPS GitHub kopieren)
+### Neues Projekt hochladen auf GitHub (link von Code / HTTPS GitHub kopieren)
 ```
 git clone link
 ```
