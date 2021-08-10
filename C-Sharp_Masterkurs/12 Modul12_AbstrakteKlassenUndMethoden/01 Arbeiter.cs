@@ -24,5 +24,10 @@ namespace C_Sharp_Masterkurs.Modul12_AbstrakteKlassenUndMethoden
         }
 
         public abstract void ArbeitVerrichten();
+        
+        public virtual void ArbeitMachen()                                      //muss nicht in die vererbten Klassen mitgenommen werden, wenn ja dann mit override
+        {
+            Console.WriteLine("Der Arbeitet macht seine Arbeit");
+        }
     }
 }

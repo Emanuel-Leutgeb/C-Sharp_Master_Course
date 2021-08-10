@@ -16,7 +16,7 @@ namespace C_Sharp_Masterkurs.Modul12_AbstrakteKlassenUndMethoden
         public void Modul12()
         {
             /*
-            // Abstrakte Klassen
+                                                                                // Abstrakte Klassen
             Mechatroniker dominik = new Mechatroniker("Dominik", 2500);
             dominik.PrintInformation();
             dominik.ArbeitVerrichten();
@@ -46,7 +46,24 @@ namespace C_Sharp_Masterkurs.Modul12_AbstrakteKlassenUndMethoden
             }
             */
 
-            ///*
+            
+            Mechatroniker jens = new Mechatroniker("Jens", 2000);
+            Console.WriteLine(jens.ToString());                                 //repräsentiert von welchen Typ die Instanz
+            jens.ArbeitVerrichten();
+            jens.ArbeitMachen();
+            
+
+            
+            //Aufgabe1
+            Rectangle rectangle = new Rectangle(10, 3);
+            Circle circle = new Circle(30);
+            Console.WriteLine(rectangle.GetArea());
+            Console.WriteLine(circle.GetArea());
+            Console.WriteLine();
+            //Aufgabe2 
+            Console.WriteLine(rectangle.ToString());
+            Console.WriteLine(circle.ToString());
+            
         }
     }
 }

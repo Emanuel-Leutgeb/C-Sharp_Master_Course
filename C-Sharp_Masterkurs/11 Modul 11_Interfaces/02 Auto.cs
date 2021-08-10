@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace C_Sharp_Masterkurs.Modul11_Interfaces
 {
-    public class Auto : IKraftfahrzeug
+    public class Auto : IKraftfahrzeug          //mit : Vererbt man Klassen
     {
         public string Producer { get; set; }
         public int MaxSpeed { get; set; }

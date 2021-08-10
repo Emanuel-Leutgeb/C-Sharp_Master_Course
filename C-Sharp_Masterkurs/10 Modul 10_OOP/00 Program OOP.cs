@@ -79,7 +79,7 @@ namespace C_Sharp_Masterkurs.Modul10_OOP
             Console.WriteLine(person2.Vorname + " " + person2.Nachname);
             */
 
-            //Konstruktor
+                                                                                //Konstruktor
             //Person person = new Person();      //new = Konstruktoraufruf  //Konstruktor mit Parameter
             //Person person = new Person("Emanuel", "Leutgeb", 24);         //Konstruktor ohne Parameter
 
