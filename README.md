@@ -23,15 +23,11 @@ git commit -m "message"
 ```
 git push                           
 ```
-<<<<<<< HEAD
-### Neues Projekt hochladen auf GitHub (link von Code / HTTPS GitHub kopieren)
-=======
 ### Gezwungenes Hochladen
 ```
 git push --force
 ```
-### Projekt hochladen auf GitHub (link von Code / HTTPS GitHub kopieren)
->>>>>>> b78e02f5358ca07dba2f5446f85e8dfcaffdb9e1
+### Neues Projekt hochladen auf GitHub (link von Code / HTTPS GitHub kopieren)
 ```
 git clone link
 ```
