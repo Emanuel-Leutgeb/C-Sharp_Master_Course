@@ -31,7 +31,10 @@ git push --force
 ```
 git clone link
 ```
-
+### git pull bei änderungen auf der origin
+```
+git pull
+```
 ## Terminal MacOS
 ### ls = list
 ```
