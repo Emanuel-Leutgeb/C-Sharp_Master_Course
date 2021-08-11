@@ -7,9 +7,8 @@
             <Node name="C-Sharp_Masterkurs" expanded="True">
               <Node name="00 Module" expanded="True" />
               <Node name="10 Modul 10_OOP" expanded="True" />
-              <Node name="15 Modul 15_Collections" expanded="True">
-                <Node name="00 Program Collections.cs" selected="True" />
-              </Node>
+              <Node name="15 Modul 15_Collections" expanded="True" />
+              <Node name="00 Program Main.cs" selected="True" />
             </Node>
           </Node>
         </State>

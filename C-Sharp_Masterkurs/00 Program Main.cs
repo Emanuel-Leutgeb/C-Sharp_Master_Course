@@ -53,22 +53,22 @@ namespace C_Sharp_Masterkurs
             
             Modul14 modul14 = new Modul14();
             modul14.StrukturenUndEnums();
-            */
+            
             Modul15 modul15 = new Modul15();
             modul15.Collections();
-            /*
+            
             Modul16 modul16 = new Modul16();
             modul16.Generics();
-
+            
             Modul17 modul17 = new Modul17();
             modul17.Delegaten();
-
+            
             Modul18 modul18 = new Modul18();
             modul18.Events();
-
+            */
             Modul19 modul19 = new Modul19();
             modul19.TryCatch();
-
+            /*
             Modul20 modul20 = new Modul20();
             modul20.MathKlassen();
 
