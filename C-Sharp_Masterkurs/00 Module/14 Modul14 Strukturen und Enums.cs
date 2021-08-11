@@ -32,6 +32,7 @@ namespace C_Sharp_Masterkurs.Module
             Console.WriteLine(point1.x + ", " + point1.y);
             */
 
+            /*
             Stopwatch sw = new Stopwatch();
 
             Point[] points = new Point[500000000];
@@ -52,10 +53,16 @@ namespace C_Sharp_Masterkurs.Module
 
             Console.WriteLine("Fertig!");
             Console.WriteLine("Verstrichene Zeit: " + sw.ElapsedMilliseconds);
+            */
+
+            Person person = new Person("Emanuel", Geschlecht.Männlich);
+            Console.WriteLine(person.Geschlecht);
+            Console.WriteLine((int)person.Geschlecht);
         }
     }
 
-    public struct Point
+    /*
+    public struct Point                                                         // struct um 95% schneller (MacBook Pro) bei dieser Aufgabe
     {
         public int x;
         public int y;
@@ -72,5 +79,29 @@ namespace C_Sharp_Masterkurs.Module
             y += y_movement;
         }
 
+    }
+    */
+
+    public enum Geschlecht
+    {
+        //Männlich = 0,
+        //Weiblich = 1,
+        //Divers = 2
+        //Oder (ist das gleiche)
+        Männlich,
+        Weiblich,
+        Divers
+    }
+
+    public class Person
+    {
+        public string Name { get; set; }
+        public Geschlecht Geschlecht { get; set; }
+
+        public Person(string name, Geschlecht geschlecht)
+        {
+            Name = name;
+            Geschlecht = geschlecht;
+        }
     }
 }
