@@ -13,6 +13,7 @@
     <None Remove="Modul12_AbstrakteKlassenUndMethoden\" />
     <None Remove="15 Modul15_Collections\" />
     <None Remove="15 Modul 15_Collections\" />
+    <None Remove="23 Modul 23_Buchhaltungssoftware\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="10 Modul 10_OOP\" />
@@ -20,5 +21,6 @@
     <Folder Include="11 Modul 11_Interfaces\" />
     <Folder Include="12 Modul 12_AbstrakteKlassenUndMethoden\" />
     <Folder Include="15 Modul 15_Collections\" />
+    <Folder Include="23 Modul 23_Buchhaltungssoftware\" />
   </ItemGroup>
 </Project>

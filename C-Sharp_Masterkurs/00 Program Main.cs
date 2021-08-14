@@ -65,22 +65,22 @@ namespace C_Sharp_Masterkurs
             
             Modul18 modul18 = new Modul18();
             modul18.Events();
-            */
+            
             Modul19 modul19 = new Modul19();
             modul19.TryCatch();
-            /*
+            
             Modul20 modul20 = new Modul20();
             modul20.MathKlassen();
-
+            
             Modul21 modul21 = new Modul21();
             modul21.RandomKlassen();
-
+            
             Modul22 modul22 = new Modul22();
             modul22.SystemIO();
-
+            */
             Modul23 modul23 = new Modul23();
             modul23.Buchhaltungssoftware();
-
+            /*
             Modul24 modul24 = new Modul24();
             modul24.Debugging();
 
