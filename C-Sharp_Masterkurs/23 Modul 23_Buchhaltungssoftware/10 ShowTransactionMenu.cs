@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace C_Sharp_Masterkurs.Modul23_Buchhaltungssoftware
 {
-    public class MainMenü
+    public class ShowTransactionMenu
     {
-        public MainMenü()
+        public ShowTransactionMenu()
         {
         }
     }

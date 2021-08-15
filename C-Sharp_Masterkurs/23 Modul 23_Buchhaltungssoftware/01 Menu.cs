@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace C_Sharp_Masterkurs.Modul23_Buchhaltungssoftware
 {
-    public class Program_Buchhaltungssoftware
+    public abstract class Menu
     {
-        public Program_Buchhaltungssoftware()
+        public Menu()
         {
+            Console.Clear();
+            DisplayMenu();
         }
-        public void Modul23()
-        {
-            Menu startMenu = new StartMenu();
-        }
+
+        public abstract void DisplayMenu();   
     }
 }

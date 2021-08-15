@@ -1,3 +1,30 @@
 ﻿<Properties StartupConfiguration="{E0D37779-BA1D-46F6-A65E-0C7A44996368}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="23 Modul 23_Buchhaltungssoftware/10 ShowTransactionMenu.cs">
+    <Files>
+      <File FileName="23 Modul 23_Buchhaltungssoftware/08 MainMenu.cs" Line="2" Column="1" />
+      <File FileName="23 Modul 23_Buchhaltungssoftware/09 TransactionMenu.cs" Line="6" Column="1" />
+      <File FileName="23 Modul 23_Buchhaltungssoftware/10 ShowTransactionMenu.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C-Sharp_Masterkurs" expanded="True">
+            <Node name="C-Sharp_Masterkurs" expanded="True">
+              <Node name="00 Module" expanded="True" />
+              <Node name="23 Modul 23_Buchhaltungssoftware" expanded="True">
+                <Node name="10 ShowTransactionMenu.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.C-Sharp__Masterkurs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
