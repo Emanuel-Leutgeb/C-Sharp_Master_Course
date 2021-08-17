@@ -20,5 +20,13 @@ namespace C_Sharp_Masterkurs.Modul23_Buchhaltungssoftware
             Balance = balance;
             Transactions = new List<Transaction>();
         }
+
+
+        public void AddTransaction(Transaction transaction)
+        {
+            Transactions.Add(transaction);
+            Balance += transaction.Amount;
+            ProfileManager.SaveProfile(this);
+        }
     }
 }

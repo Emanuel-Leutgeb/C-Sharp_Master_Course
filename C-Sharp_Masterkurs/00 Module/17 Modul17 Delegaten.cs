@@ -55,7 +55,7 @@ namespace C_Sharp_Masterkurs.Module
             */
 
             /*
-                                                                                //Lamda Ausdrücke, ist NEU!!
+                                                                                //Lambda Ausdrücke, ist NEU!! => Pfeil ist der Lambda Operator
             List<string> newList4 = ReturnNewList(namen, (name) => { return name[0] == 'A' || name[0] == 'a'; });
 
             foreach (string name in newList4)

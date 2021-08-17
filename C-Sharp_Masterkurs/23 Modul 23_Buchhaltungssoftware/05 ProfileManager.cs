@@ -21,13 +21,13 @@ namespace C_Sharp_Masterkurs.Modul23_Buchhaltungssoftware
         public static void SaveProfile(Profile profile)
         {
             string filePath = AppContext.BaseDirectory + profile.Name + ".prof";
-            BinaryFormatter binaryFormatter = new BinaryFormatter();
+            //BinaryFormatter binaryFormatter = new BinaryFormatter();
 
             try
             {
                 using (FileStream stream = new FileStream(filePath, FileMode.Create))
                 {
-                    binaryFormatter.Serialize(stream, profile);                 //BinaryFormatter veraltet! JSON oder XML ist neuer und sicherer
+                    //binaryFormatter.Serialize(stream, profile);                 //BinaryFormatter veraltet! JSON oder XML ist neuer und sicherer
                 }
             }
             catch(Exception ex)
@@ -40,13 +40,13 @@ namespace C_Sharp_Masterkurs.Modul23_Buchhaltungssoftware
 
         public static void LoadProfile(string profilePath)
         {
-            BinaryFormatter binaryFormatter = new BinaryFormatter();
+            //BinaryFormatter binaryFormatter = new BinaryFormatter();
 
             try
             {
                 using (FileStream stream = new FileStream(profilePath, FileMode.Open))
                 {
-                    CurrentProfile = (Profile)binaryFormatter.Deserialize(stream);
+                    //CurrentProfile = (Profile)binaryFormatter.Deserialize(stream);
                 }
             }
             catch(Exception ex)

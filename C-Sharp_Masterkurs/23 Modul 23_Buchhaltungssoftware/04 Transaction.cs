@@ -23,7 +23,7 @@ namespace C_Sharp_Masterkurs.Modul23_Buchhaltungssoftware
 
         public override string ToString()
         {
-            return "Name; " + Name + " | Datum: " + Date.ToShortDateString() + " | Betrag " + Amount + " Euro ";
+            return "Name: " + Name + " | Datum: " + Date.ToShortDateString() + " | Betrag " + Amount + " Euro ";
         }
     }
 }

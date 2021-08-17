@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C_Sharp_Masterkurs.Modul23_Buchhaltungssoftware
+namespace C_Sharp_Masterkurs.Modul25_LINQ
 {
-    public class TransactionMenu
+    public class GroupJoin
     {
-        public TransactionMenu()
+        public GroupJoin()
         {
         }
     }

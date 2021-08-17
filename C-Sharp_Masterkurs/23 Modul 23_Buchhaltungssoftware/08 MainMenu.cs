@@ -37,11 +37,11 @@ namespace C_Sharp_Masterkurs.Modul23_Buchhaltungssoftware
                 switch (input)
                 {
                     case "1":
-                        nextMenu = new TransactionMenu();
+                        nextMenu = new NewTransactionMenu();
                         break;
 
                     case "2":
-                        //nextMenu = new ShowTransactionMenu();
+                        nextMenu = new ShowTransactionsMenu();
                         break;
 
                     case "3":

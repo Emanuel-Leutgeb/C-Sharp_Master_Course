@@ -44,7 +44,7 @@ namespace C_Sharp_Masterkurs.Module
                 catch (Exception)
                 {
                 }
-                
+
 
                 bool end = false;
 
@@ -88,7 +88,7 @@ namespace C_Sharp_Masterkurs.Module
                 "David",
                 "Agilox",
                 "AMS",
-                "SEX",
+                "CodersBay",
                 "Hallo"
             };
 
