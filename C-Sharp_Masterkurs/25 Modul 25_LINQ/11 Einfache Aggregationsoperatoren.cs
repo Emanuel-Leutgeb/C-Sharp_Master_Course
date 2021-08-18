@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*
 namespace C_Sharp_Masterkurs.Modul25_LINQ
 {
     public class Einfache_Aggregationsoperatoren
@@ -13,44 +13,55 @@ namespace C_Sharp_Masterkurs.Modul25_LINQ
             int[] numbers = { 10, 20, 30, 40, 5, 50, 32, 10, 340, 44 };
 
 
-            var result1 = numbers.Min();
-            var result2 = numbers.Average();
-            Console.WriteLine(result2);
+            
+            var result1 = numbers.Average();
+            var result2 = numbers.Min();
+            var result3 = numbers.Max();
+            var result4 = numbers.Sum();
+            var result5 = numbers.Count();
+ 
+            Console.WriteLine($"{result1} {result2} {result3} {result4} {result5}");
 
-            List<Student> studentList = new List<Student>();
-            studentList.Add(new Student("Emanuel", "Leutgeb", "Engineering", 24));
-            studentList.Add(new Student("Miriam", "Leutgeb", "IT", 20));
-            studentList.Add(new Student("Herbert", "Mascherbauer", "Engineering", 26));
-            studentList.Add(new Student("Michael", "Huber", "IT", 28));
-            studentList.Add(new Student("Sandra", "Huemer", "Art", 44));
-            studentList.Add(new Student("Mario", "Forstinger", "Art", 54));
-            studentList.Add(new Student("Manuel", "Mühlböck", "Engineering", 23));
-            studentList.Add(new Student("Johanna", "Aigenberger", "IT", 21));
+            //------------------------------------------------------------------
 
-            var result3 = studentList.Max((student) => student.Age);
-            Console.WriteLine(result3);
+            List<Person> personList = new List<Person>();
+            personList.Add(new Person("Emanuel", "Leutgeb", 24, "Programmer"));
+            personList.Add(new Person("Miriam", "Leutgeb", 20, "Programmer"));
+            personList.Add(new Person("Herbert", "Mascherbauer", 26, "Production"));
+            personList.Add(new Person("Michael", "Huber", 28, "Office"));
+            personList.Add(new Person("Sandra", "Huemer", 44, "Farmer"));
+            personList.Add(new Person("Mario", "Forstinger", 54, "Farmer"));
+            personList.Add(new Person("Manuel", "Mühlböck", 23, "Production"));
+            personList.Add(new Person("Johanna", "Aigenberger", 21, "Office"));
 
-            var result = studentList.Average((student) => student.Age);
-            Console.WriteLine(result);
+            var res1 = personList.Average((person) => person.Age);
+            var res2 = personList.Min((person) => person.Age);
+            var res3 = personList.Max((person) => person.Age);
+            var res4 = personList.Sum((person) => person.Age);
+            var res5 = personList.Count();
+            var res6 = personList.Where(person => person.Job == "Programmer").Count();
+
+
+            Console.WriteLine($"{res1} {res2} {res3} {res4} {res5} {res6}");
         }
     }
 
 
-    public class Student
+    public class Person
     {
         //Properties
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public string Job { get; set; }
         public int Age { get; set; }
+        public string Job { get; set; }
 
         //Constructor
-        public Student(string firstName, string lastName, string job, int age)
+        public Person(string firstName, string lastName, int age, string job)
         {
             FirstName = firstName;
             LastName = lastName;
-            Job = job;
             Age = age;
+            Job = job;
         }
 
         //Methods
@@ -61,3 +72,4 @@ namespace C_Sharp_Masterkurs.Modul25_LINQ
         }
     }
 }
+*/

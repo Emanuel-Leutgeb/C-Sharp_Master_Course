@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace C_Sharp_Masterkurs.Modul25_LINQ
 {
-    public class Join
+    public class Dauer_einer_Query_messen
     {
-        public Join()
+        public Dauer_einer_Query_messen()
         {
         }
     }

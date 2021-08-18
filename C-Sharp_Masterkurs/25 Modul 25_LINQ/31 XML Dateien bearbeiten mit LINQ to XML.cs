@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace C_Sharp_Masterkurs.Modul25_LINQ
 {
-    public class Join_mit_der_Methoden_Syntax
+    public class XML_Dateien_bearbeiten_mit_LINQ_to_XML
     {
-        public Join_mit_der_Methoden_Syntax()
+        public XML_Dateien_bearbeiten_mit_LINQ_to_XML()
         {
         }
     }

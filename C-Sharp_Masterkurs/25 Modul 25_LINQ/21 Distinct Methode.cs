@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace C_Sharp_Masterkurs.Modul25_LINQ
 {
-    public class GroupJoin
+    public class Distinct_Methode
     {
-        public GroupJoin()
+        public Distinct_Methode()
         {
         }
     }
