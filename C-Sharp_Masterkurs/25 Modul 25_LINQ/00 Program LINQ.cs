@@ -55,33 +55,31 @@ namespace C_Sharp_Masterkurs.Modul25_LINQ
 
             //Concat_Methode concat_Methode = new Concat_Methode();
 
-            Distinct_Methode distinct_Methode = new Distinct_Methode();
+            //Distinct_Methode distinct_Methode = new Distinct_Methode();
 
-            Expect_Methode expect_Methode = new Expect_Methode();
+            //Expect_Methode expect_Methode = new Expect_Methode();
 
-            Intersect_Methode intersect_Methode = new Intersect_Methode();
+            //Intersect_Methode intersect_Methode = new Intersect_Methode();
 
-            Union_Methode union_Methode = new Union_Methode();
+            //Union_Methode union_Methode = new Union_Methode();
 
-            Skip_und_Take_Methode skip_Und_Take_Methode = new Skip_und_Take_Methode();
+            //Skip_und_Take_Methode skip_Und_Take_Methode = new Skip_und_Take_Methode();
 
-            Sequenzen_Konvertieren sequenzen_Konvertieren = new Sequenzen_Konvertieren();
+            //Sequenzen_Konvertieren sequenzen_Konvertieren = new Sequenzen_Konvertieren();
 
-            Aufbau_einer_XML_Datei aufbau_Einer_XML_Datei = new Aufbau_einer_XML_Datei();
+            //Aufbau_einer_XML_Datei aufbau_Einer_XML_Datei = new Aufbau_einer_XML_Datei();
 
-            LINQ_to_XML lINQ_To_XML = new LINQ_to_XML();
+            //LINQ_to_XML lINQ_To_XML = new LINQ_to_XML();
 
-            XML_im_Code_generieren_speichern_und_laden xML_Im_Code_Generieren_Speichern_Und_Laden = new XML_im_Code_generieren_speichern_und_laden();
+            //XML_im_Code_generieren_speichern_und_laden xML_Im_Code_Generieren_Speichern_Und_Laden = new XML_im_Code_generieren_speichern_und_laden();
 
-            XML_Dateien_in_LINQ_abfragen xML_Dateien_In_LINQ_Abfragen = new XML_Dateien_in_LINQ_abfragen();
+            //XML_Dateien_in_LINQ_abfragen xML_Dateien_In_LINQ_Abfragen = new XML_Dateien_in_LINQ_abfragen();
 
-            XML_Dateien_bearbeiten_mit_LINQ_to_XML xML_Dateien_Bearbeiten_Mit_LINQ_To_XML = new XML_Dateien_bearbeiten_mit_LINQ_to_XML();
+            //XML_Dateien_bearbeiten_mit_LINQ_to_XML xML_Dateien_Bearbeiten_Mit_LINQ_To_XML = new XML_Dateien_bearbeiten_mit_LINQ_to_XML();
 
-            Dauer_einer_Query_messen dauer_Einer_Query_Messen = new Dauer_einer_Query_messen();
+            //Dauer_einer_Query_messen dauer_Einer_Query_Messen = new Dauer_einer_Query_messen();
 
-            Parallel_LINQ parallel_LINQ = new Parallel_LINQ();
-
-
+            //Parallel_LINQ parallel_LINQ = new Parallel_LINQ();
         } 
     }
 }

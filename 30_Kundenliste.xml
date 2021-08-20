@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Kundenliste-->
+<Kunden>
+  <Kunde>
+    <KundenID>1</KundenID>
+    <Vorname>Emanuel</Vorname>
+    <Nachname>Leutgeb</Nachname>
+    <Adresse Ort="Wels" Straße="Birkenstraße 6" />
+  </Kunde>
+  <Kunde>
+    <KundenID>2</KundenID>
+    <Vorname>Miriam</Vorname>
+    <Nachname>Forstinger</Nachname>
+    <Adresse Ort="Bad Wimsbach-Neydharting" Straße="Kößlwang 6" />
+  </Kunde>
+  <Kunde>
+    <KundenID>3</KundenID>
+    <Vorname>Alexander</Vorname>
+    <Nachname>Schlager</Nachname>
+    <Adresse Ort="Edt bei Lambach" Straße="Kreisbichl 6" />
+  </Kunde>
+</Kunden>

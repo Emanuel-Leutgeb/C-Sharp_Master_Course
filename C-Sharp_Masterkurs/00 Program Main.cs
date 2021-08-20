@@ -83,10 +83,10 @@ namespace C_Sharp_Masterkurs
             
             Modul24 modul24 = new Modul24();
             modul24.Debugging();
-            */
+            
             Modul25 modul25 = new Modul25();
             modul25.LINQ();
-            /*
+            
             Modul26 modul26 = new Modul26();
             modul26.Zahlensysteme();
             
